@@ -82,7 +82,7 @@ The project emphasizes user data **confidentiality** and **integrity** by encryp
 ### Installation
 
 ```bash
-git https://github.com/mdzaid7817/secure-cloud-vault.git
+git https://github.com/KamakshiPandey/secure-file-storage
 cd s3-secure-vault
 pip install -r requirements.txt
 ```
@@ -120,5 +120,6 @@ AWS_DEFAULT_REGION=eu-north-1
 
 
 ---
+
 
 
